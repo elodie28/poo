@@ -1,0 +1,32 @@
+- user1:
+  nom: Perrotton
+  prenom: Elodie
+  age: 26
+  ville: ['Lyon', 'Paris']
+  sports: ['Rugby', 'Boxe-Thaï']
+  loisirs:
+    - 'Musique'
+    - 'Cinéma'
+  technologies:
+    web: "PHP"
+    frameworks: "Symfony ---> Laravel"
+    logiciels: "PHPStorm"
+    integration: ['SASS', 'CSS', 'COFFEESCRIPT']
+  langues: ['Français', 'Anglais', 'Allemand']
+
+
+- user2:
+  nom: Perrotton
+  prenom: Elodie
+  age: 26
+  ville: Lyon
+  sports: ['Rugby', 'Boxe-Thaï']
+  loisirs:
+    - 'Musique'
+    - 'Cinéma'
+  technologies:
+    web: "PHP"
+    frameworks: "Symfony ---> Laravel"
+    logiciels: "PHPStorm"
+    integration: ['SASS', 'CSS', 'COFFEESCRIPT']
+  langues: ['Français', 'Anglais', 'Allemand']
